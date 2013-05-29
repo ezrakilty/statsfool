@@ -1,4 +1,4 @@
 statsfool
 =========
 
-Fooling around with statistics &amp; machine learning algorithms
+Fooling around with statistics & machine learning algorithms.
